@@ -1,0 +1,50 @@
+[
+  {
+    "service": "Permits & Licences",
+    "image": "assets/Permits.jpg"
+  },
+  {
+    "service": "Parking",
+    "image": "assets/parking.jpg"
+  },
+  {
+    "service": "Trees",
+    "image": "assets/tree.jpg"
+  },
+  {
+    "service": "Recreation",
+    "image": "assets/recreation.jpg"
+  },
+  {
+    "service": "Water Utility",
+    "image": "assets/water.jpg"
+  },
+  {
+    "service": "Civic Services",
+    "image": "assets/civic.jpg"
+  },
+  {
+    "service": "Traffic Tickets & Court Fines",
+    "image": "assets/traffic.jpg"
+  },
+  {
+    "service": "Drainage",
+    "image": "assets/drain.jpg"
+  },
+  {
+    "service": "Property/Noise Concerns",
+    "image": "assets/property.jpg"
+  },
+  {
+    "service": "Litter and Graffiti",
+    "image": "assets/graffite.jpg"
+  },
+  {
+    "service": "Signs",
+    "image": "assets/signs.jpg"
+  },
+  {
+    "service": "Parks Light Burnt Out",
+    "image": "assets/parks_light.jpg"
+  }
+]
